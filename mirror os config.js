@@ -105,7 +105,7 @@ var config = {
         },
         {
                 module: 'MMM-Remote-Control'
-                ,position: 'bottom_left
+                ,position: 'bottom_left'
             },
         {
             module: 'calendar_monthly',
