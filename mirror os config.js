@@ -111,9 +111,6 @@ var config = {
             module: 'calendar_monthly',
             position: 'top_left',
             config: {
-                    // The config property is optional
-                    // Without a config, a default month view is shown
-                    // Please see the 'Configuration Options' section for more information
             }
         }
     ]
